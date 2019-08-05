@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541932080 source:d:\programavimas cpp\fbake\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

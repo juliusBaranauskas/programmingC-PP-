@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539703746 source:d:\programavimas cpp\justinos\main.cpp
+	<iostream>
+	<fstream>
+

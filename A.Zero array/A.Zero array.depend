@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538908100 source:d:\programavimas cpp\a.zero array\main.cpp
+	<iostream>
+	<fstream>
+

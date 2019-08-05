@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543136517 source:d:\programavimas cpp\klucky\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

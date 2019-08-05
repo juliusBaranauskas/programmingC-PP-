@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537097936 source:d:\programavimas cpp\sum\main.cpp
+	<iostream>
+	<fstream>
+

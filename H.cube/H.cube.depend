@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538903096 source:d:\programavimas cpp\h.cube\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

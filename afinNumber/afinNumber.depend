@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540040398 source:d:\programavimas cpp\afinnumber\main.cpp
+	<iostream>
+	<fstream>
+

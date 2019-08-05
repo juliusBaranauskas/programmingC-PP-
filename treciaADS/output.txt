@@ -1,0 +1,524 @@
+Plane num 0 takingOff is added to queue at time 8
+
+Plane num 0 takingOff is deleted from queue at time 15--------------------------
+
+Plane num 1 landing is added to queue at time 19
+
+Plane num 1 landing is deleted from queue at time 29--------------------------
+
+Plane num 2 takingOff is added to queue at time 34
+
+Plane num 3 takingOff is added to queue at time 38
+
+Plane num 2 takingOff is deleted from queue at time 41--------------------------
+
+Plane num 3 takingOff is deleted from queue at time 48--------------------------
+
+Plane num 4 takingOff is added to queue at time 61
+
+Plane num 5 takingOff is added to queue at time 65
+
+Plane num 4 takingOff is deleted from queue at time 68--------------------------
+
+Plane num 5 takingOff is deleted from queue at time 75--------------------------
+
+Plane num 6 landing is added to queue at time 78
+
+Plane num 7 landing is added to queue at time 79
+
+Plane num 8 takingOff is added to queue at time 84
+
+Plane num 6 landing is deleted from queue at time 88--------------------------
+
+Plane num 9 takingOff is added to queue at time 91
+
+Plane num 10 takingOff is added to queue at time 94
+
+Plane num 7 landing is deleted from queue at time 98--------------------------
+
+Plane num 11 takingOff is added to queue at time 105
+
+Plane num 8 takingOff is deleted from queue at time 105--------------------------
+
+Plane num 9 takingOff is deleted from queue at time 112--------------------------
+
+Plane num 10 takingOff is deleted from queue at time 119--------------------------
+
+Plane num 11 takingOff is deleted from queue at time 126--------------------------
+
+Plane num 12 landing is added to queue at time 129
+
+Plane num 13 takingOff is added to queue at time 131
+
+Plane num 12 landing is deleted from queue at time 139--------------------------
+
+Plane num 14 takingOff is added to queue at time 143
+
+Plane num 15 landing is added to queue at time 145
+
+Plane num 13 takingOff is deleted from queue at time 146--------------------------
+
+Plane num 15 landing is deleted from queue at time 156--------------------------
+
+Plane num 14 takingOff is deleted from queue at time 163--------------------------
+
+Plane num 16 landing is added to queue at time 164
+
+Plane num 17 landing is added to queue at time 169
+
+Plane num 18 landing is added to queue at time 173
+
+Plane num 16 landing is deleted from queue at time 174--------------------------
+
+Plane num 17 landing is deleted from queue at time 184--------------------------
+
+Plane num 19 landing is added to queue at time 191
+
+Plane num 20 landing is added to queue at time 193
+
+Plane num 18 landing is deleted from queue at time 194--------------------------
+
+Plane num 21 landing is added to queue at time 198
+
+Plane num 19 landing is deleted from queue at time 204--------------------------
+
+Plane num 22 takingOff is added to queue at time 211
+
+Plane num 23 takingOff is added to queue at time 212
+
+Plane num 24 landing is added to queue at time 213
+
+Plane num 20 landing is deleted from queue at time 214--------------------------
+
+Plane num 25 landing is added to queue at time 219
+
+Plane num 26 takingOff is added to queue at time 222
+
+Plane num 27 landing is added to queue at time 224
+
+Plane num 21 landing is deleted from queue at time 224--------------------------
+
+Plane num 28 takingOff is added to queue at time 233
+
+Plane num 24 landing is deleted from queue at time 234--------------------------
+
+Plane num 29 landing is added to queue at time 244
+
+Plane num 25 landing is deleted from queue at time 244--------------------------
+
+Plane num 27 landing is deleted from queue at time 254--------------------------
+
+Plane num 30 takingOff is added to queue at time 261
+
+Plane num 29 landing is deleted from queue at time 264--------------------------
+
+Plane num 31 takingOff is added to queue at time 270
+
+Plane num 22 takingOff is deleted from queue at time 271--------------------------
+
+Plane num 32 takingOff is added to queue at time 272
+
+Plane num 33 landing is added to queue at time 275
+
+Plane num 23 takingOff is deleted from queue at time 278--------------------------
+
+Plane num 33 landing is deleted from queue at time 288--------------------------
+
+Plane num 34 takingOff is added to queue at time 292
+
+Plane num 35 takingOff is added to queue at time 293
+
+Plane num 26 takingOff is deleted from queue at time 295--------------------------
+
+Plane num 28 takingOff is deleted from queue at time 302--------------------------
+
+Plane num 30 takingOff is deleted from queue at time 309--------------------------
+
+Plane num 31 takingOff is deleted from queue at time 316--------------------------
+
+Plane num 36 landing is added to queue at time 318
+
+Plane num 37 takingOff is added to queue at time 320
+
+Plane num 32 takingOff is deleted from queue at time 323--------------------------
+
+Plane num 38 takingOff is added to queue at time 324
+
+Plane num 36 landing is deleted from queue at time 333--------------------------
+
+Plane num 34 takingOff is deleted from queue at time 340--------------------------
+
+Plane num 39 takingOff is added to queue at time 344
+
+Plane num 35 takingOff is deleted from queue at time 347--------------------------
+
+Plane num 40 landing is added to queue at time 352
+
+Plane num 37 takingOff is deleted from queue at time 354--------------------------
+
+Plane num 41 takingOff is added to queue at time 358
+
+Plane num 42 takingOff is added to queue at time 363
+
+Plane num 40 landing is deleted from queue at time 364--------------------------
+
+Plane num 38 takingOff is deleted from queue at time 371--------------------------
+
+Plane num 43 landing is added to queue at time 375
+
+Plane num 39 takingOff is deleted from queue at time 378--------------------------
+
+Plane num 44 takingOff is added to queue at time 383
+
+Plane num 43 landing is deleted from queue at time 388--------------------------
+
+Plane num 41 takingOff is deleted from queue at time 395--------------------------
+
+Plane num 45 landing is added to queue at time 399
+
+Plane num 42 takingOff is deleted from queue at time 402--------------------------
+
+Plane num 46 landing is added to queue at time 410
+
+Plane num 45 landing is deleted from queue at time 412--------------------------
+
+Plane num 46 landing is deleted from queue at time 422--------------------------
+
+Plane num 44 takingOff is deleted from queue at time 429--------------------------
+
+Plane num 47 landing is added to queue at time 430
+
+Plane num 48 landing is added to queue at time 432
+
+Plane num 49 takingOff is added to queue at time 436
+
+Plane num 50 takingOff is added to queue at time 440
+
+Plane num 47 landing is deleted from queue at time 440--------------------------
+
+Plane num 48 landing is deleted from queue at time 450--------------------------
+
+Plane num 49 takingOff is deleted from queue at time 457--------------------------
+
+Plane num 51 landing is added to queue at time 458
+
+Plane num 50 takingOff is deleted from queue at time 464--------------------------
+
+Plane num 52 takingOff is added to queue at time 469
+
+Plane num 51 landing is deleted from queue at time 474--------------------------
+
+Plane num 52 takingOff is deleted from queue at time 481--------------------------
+
+Plane num 53 landing is added to queue at time 485
+
+Plane num 54 landing is added to queue at time 491
+
+Plane num 55 landing is added to queue at time 493
+
+Plane num 53 landing is deleted from queue at time 495--------------------------
+
+Plane num 54 landing is deleted from queue at time 505--------------------------
+
+Plane num 56 landing is added to queue at time 506
+
+Plane num 55 landing is deleted from queue at time 515--------------------------
+
+Plane num 56 landing is deleted from queue at time 525--------------------------
+
+Plane num 57 takingOff is added to queue at time 528
+
+Plane num 57 takingOff is deleted from queue at time 535--------------------------
+
+Plane num 58 takingOff is added to queue at time 539
+
+Plane num 59 takingOff is added to queue at time 544
+
+Plane num 58 takingOff is deleted from queue at time 546--------------------------
+
+Plane num 59 takingOff is deleted from queue at time 553--------------------------
+
+Plane num 60 landing is added to queue at time 563
+
+Plane num 61 landing is added to queue at time 572
+
+Plane num 60 landing is deleted from queue at time 573--------------------------
+
+Plane num 62 landing is added to queue at time 578
+
+Plane num 61 landing is deleted from queue at time 583--------------------------
+
+Plane num 63 landing is added to queue at time 588
+
+Plane num 64 takingOff is added to queue at time 591
+
+Plane num 62 landing is deleted from queue at time 593--------------------------
+
+Plane num 65 landing is added to queue at time 595
+
+Plane num 63 landing is deleted from queue at time 603--------------------------
+
+Plane num 65 landing is deleted from queue at time 613--------------------------
+
+Plane num 66 landing is added to queue at time 618
+
+Plane num 64 takingOff is deleted from queue at time 620--------------------------
+
+Plane num 66 landing is deleted from queue at time 630--------------------------
+
+Plane num 67 landing is added to queue at time 632
+
+Plane num 68 takingOff is added to queue at time 639
+
+Plane num 69 landing is added to queue at time 642
+
+Plane num 67 landing is deleted from queue at time 642--------------------------
+
+Plane num 70 landing is added to queue at time 649
+
+Plane num 69 landing is deleted from queue at time 652--------------------------
+
+Plane num 71 landing is added to queue at time 657
+
+Plane num 70 landing is deleted from queue at time 662--------------------------
+
+Plane num 72 landing is added to queue at time 666
+
+Plane num 71 landing is deleted from queue at time 672--------------------------
+
+Plane num 73 takingOff is added to queue at time 679
+
+Plane num 72 landing is deleted from queue at time 682--------------------------
+
+Plane num 68 takingOff is deleted from queue at time 689--------------------------
+
+Plane num 73 takingOff is deleted from queue at time 696--------------------------
+
+Plane num 74 takingOff is added to queue at time 711
+
+Plane num 75 takingOff is added to queue at time 718
+
+Plane num 74 takingOff is deleted from queue at time 718--------------------------
+
+Plane num 76 landing is added to queue at time 720
+
+Plane num 75 takingOff is deleted from queue at time 725--------------------------
+
+Plane num 77 takingOff is added to queue at time 729
+
+Plane num 76 landing is deleted from queue at time 735--------------------------
+
+Plane num 78 landing is added to queue at time 737
+
+Plane num 79 landing is added to queue at time 741
+
+Plane num 77 takingOff is deleted from queue at time 742--------------------------
+
+Plane num 78 landing is deleted from queue at time 752--------------------------
+
+Plane num 79 landing is deleted from queue at time 762--------------------------
+
+Plane num 80 takingOff is added to queue at time 765
+
+Plane num 81 landing is added to queue at time 766
+
+Plane num 80 takingOff is deleted from queue at time 772--------------------------
+
+Plane num 81 landing is deleted from queue at time 782--------------------------
+
+Plane num 82 landing is added to queue at time 788
+
+Plane num 83 landing is added to queue at time 795
+
+Plane num 82 landing is deleted from queue at time 798--------------------------
+
+Plane num 84 landing is added to queue at time 802
+
+Plane num 85 takingOff is added to queue at time 803
+
+Plane num 83 landing is deleted from queue at time 808--------------------------
+
+Plane num 84 landing is deleted from queue at time 818--------------------------
+
+Plane num 85 takingOff is deleted from queue at time 825--------------------------
+
+Plane num 86 landing is added to queue at time 864
+
+Plane num 87 takingOff is added to queue at time 871
+
+Plane num 86 landing is deleted from queue at time 874--------------------------
+
+Plane num 87 takingOff is deleted from queue at time 881--------------------------
+
+Plane num 88 takingOff is added to queue at time 911
+
+Plane num 88 takingOff is deleted from queue at time 918--------------------------
+
+Plane num 89 takingOff is added to queue at time 921
+
+Plane num 90 takingOff is added to queue at time 924
+
+Plane num 89 takingOff is deleted from queue at time 928--------------------------
+
+Plane num 91 takingOff is added to queue at time 931
+
+Plane num 92 landing is added to queue at time 935
+
+Plane num 90 takingOff is deleted from queue at time 935--------------------------
+
+Plane num 93 takingOff is added to queue at time 944
+
+Plane num 92 landing is deleted from queue at time 945--------------------------
+
+Plane num 91 takingOff is deleted from queue at time 952--------------------------
+
+Plane num 93 takingOff is deleted from queue at time 959--------------------------
+
+Plane num 94 takingOff is added to queue at time 964
+
+Plane num 95 landing is added to queue at time 967
+
+Plane num 94 takingOff is deleted from queue at time 971--------------------------
+
+Plane num 95 landing is deleted from queue at time 981--------------------------
+
+Plane num 96 takingOff is added to queue at time 982
+
+Plane num 96 takingOff is deleted from queue at time 989--------------------------
+
+Plane num 97 takingOff is added to queue at time 991
+
+Plane num 97 takingOff is deleted from queue at time 998--------------------------
+
+Plane num 98 landing is added to queue at time 1029
+
+Plane num 99 takingOff is added to queue at time 1037
+
+Plane num 98 landing is deleted from queue at time 1039--------------------------
+
+Plane num 99 takingOff is deleted from queue at time 1046--------------------------
+
+Plane num 100 landing is added to queue at time 1054
+
+Plane num 100 landing is deleted from queue at time 1064--------------------------
+
+Plane num 101 landing is added to queue at time 1082
+
+Plane num 101 landing is deleted from queue at time 1092--------------------------
+
+Plane num 102 takingOff is added to queue at time 1099
+
+Plane num 102 takingOff is deleted from queue at time 1106--------------------------
+
+Plane num 103 takingOff is added to queue at time 1115
+
+Plane num 103 takingOff is deleted from queue at time 1122--------------------------
+
+Plane num 104 takingOff is added to queue at time 1129
+
+Plane num 104 takingOff is deleted from queue at time 1136--------------------------
+
+Plane num 105 takingOff is added to queue at time 1142
+
+Plane num 105 takingOff is deleted from queue at time 1149--------------------------
+
+Plane num 106 landing is added to queue at time 1166
+
+Plane num 107 landing is added to queue at time 1174
+
+Plane num 108 takingOff is added to queue at time 1176
+
+Plane num 106 landing is deleted from queue at time 1176--------------------------
+
+Plane num 107 landing is deleted from queue at time 1186--------------------------
+
+Plane num 108 takingOff is deleted from queue at time 1193--------------------------
+
+Plane num 109 landing is added to queue at time 1200
+
+Plane num 110 landing is added to queue at time 1202
+
+Plane num 109 landing is deleted from queue at time 1210--------------------------
+
+Plane num 111 landing is added to queue at time 1218
+
+Plane num 110 landing is deleted from queue at time 1220--------------------------
+
+Plane num 111 landing is deleted from queue at time 1230--------------------------
+
+Plane num 112 takingOff is added to queue at time 1232
+
+Plane num 113 takingOff is added to queue at time 1235
+
+Plane num 112 takingOff is deleted from queue at time 1239--------------------------
+
+Plane num 113 takingOff is deleted from queue at time 1246--------------------------
+
+Plane num 114 landing is added to queue at time 1253
+
+Plane num 115 landing is added to queue at time 1255
+
+Plane num 114 landing is deleted from queue at time 1263--------------------------
+
+Plane num 116 landing is added to queue at time 1264
+
+Plane num 115 landing is deleted from queue at time 1273--------------------------
+
+Plane num 116 landing is deleted from queue at time 1283--------------------------
+
+Plane num 117 landing is added to queue at time 1291
+
+Plane num 118 takingOff is added to queue at time 1301
+
+Plane num 117 landing is deleted from queue at time 1301--------------------------
+
+Plane num 119 takingOff is added to queue at time 1303
+
+Plane num 120 landing is added to queue at time 1304
+
+Plane num 121 takingOff is added to queue at time 1305
+
+Plane num 118 takingOff is deleted from queue at time 1308--------------------------
+
+Plane num 122 takingOff is added to queue at time 1313
+
+Plane num 123 landing is added to queue at time 1317
+
+Plane num 120 landing is deleted from queue at time 1318--------------------------
+
+Plane num 123 landing is deleted from queue at time 1328--------------------------
+
+Plane num 119 takingOff is deleted from queue at time 1335--------------------------
+
+Plane num 124 takingOff is added to queue at time 1338
+
+Plane num 121 takingOff is deleted from queue at time 1342--------------------------
+
+Plane num 125 landing is added to queue at time 1344
+
+Plane num 122 takingOff is deleted from queue at time 1349--------------------------
+
+Plane num 125 landing is deleted from queue at time 1359--------------------------
+
+Plane num 126 landing is added to queue at time 1360
+
+Plane num 124 takingOff is deleted from queue at time 1366--------------------------
+
+Plane num 127 takingOff is added to queue at time 1369
+
+Plane num 128 landing is added to queue at time 1372
+
+Plane num 129 takingOff is added to queue at time 1373
+
+Plane num 126 landing is deleted from queue at time 1376--------------------------
+
+Plane num 128 landing is deleted from queue at time 1386--------------------------
+
+Plane num 127 takingOff is deleted from queue at time 1393--------------------------
+
+Plane num 129 takingOff is deleted from queue at time 1400--------------------------
+
+Plane num 130 takingOff is added to queue at time 1401
+
+Plane num 130 takingOff is deleted from queue at time 1408--------------------------
+
